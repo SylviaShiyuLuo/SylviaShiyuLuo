@@ -47,8 +47,6 @@
 * [Software Engineer II- M365 HA](https://careers.microsoft.com/us/en/job/1251209)
 * [Software Engineer/ SEII - M365 IDEAs](https://careers.microsoft.com/us/en/job/1253459)
 
-</br>
-
 ---
 
 > *Each one of us has, somewhere in his heart, the dream to make a living world, a universe. Those of us who have been trained as architects have this desire perhaps at the very center of our lives: that one day, somewhere, somehow, we shall build one building which is wonderful, beautiful, breathtaking, a place where people can walk and dream for centuries.*
