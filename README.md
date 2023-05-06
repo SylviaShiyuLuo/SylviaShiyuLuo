@@ -26,7 +26,7 @@
 
 ☑️ 创始人均来自国内头部互联网大厂的高管或顶级专家，公司得到了全球头部投资机构的鼎力支持。公司拥有国内顶级的数据库、云计算、大数据领域研发团队。同时，团队核心研发成员在 VLDB 等行业顶级会议发表过多篇论文，在相关领域的全球权威评测中获得全球第一的成绩和高度认可。 
 
-☑️ 我们正处于一个技术创新的时代，正处于云计算成为新一代计算体系结构的新时代，正处于数字化转型升级业务创新的新时代。我们坚信：唯有创新、追求极致技术、长期主义才能构建出新时代领先的数据基础设施！ 我们相信，从0到1构建面向下一个十年的数据基础设施创新的过程中，只有和行业顶尖的伙伴一起同行才能完成这个目标，期待我们一起来创造
+☑️ ZBYTE Technology is a cloud computing service company founded by former senior technology and business leaders from top cloud companies. ZBYTE Technology is dedicated to developing next generation data technology. We name our service as "Native Data-Centric Cloud." This service will significantly reduce the Total Cost of Ownership (TCO) of data management and analytics; through the synergistic network developed by ZBYTE Technology, the value of data can be greatly amplified. We believe this new generation cloud will become the infrastructure for accelerating the digital transformation of the world.
 
 </br>
 
